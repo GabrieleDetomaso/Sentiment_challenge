@@ -1,5 +1,5 @@
 # Sentiment_challenge
-Sentiment analysis project in python that aims to classify the sentiment of Github and Stake Overflow issues
+Sentiment analysis project in python that aims to classify the sentiment of Github and Stake Overflow issues.
 
 # Repository structure
 There are several python notebooks, the number define the execution order  
